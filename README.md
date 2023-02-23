@@ -21,9 +21,8 @@ Django-blog is an open-source blog management platform built on the Django Web F
 virtualenv env
 source env/bin/activate
 ```
-**2.clone Repository & Install Packages**
+**2.Install Packages**
 ```sh
-git clone https://github.com/shyam999/DjangoBlog.git
 pip install -r requirements.txt
 ```
 **3.Migrate & Start Server**
@@ -33,6 +32,4 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## Where to find Me
-Like Me on [Facebook](https://www.facebook.com/shyam333445/)
-Or visit My [Website](https://shyam999.github.io)
+
